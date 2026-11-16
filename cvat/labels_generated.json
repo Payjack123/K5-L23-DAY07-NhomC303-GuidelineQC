@@ -30,7 +30,10 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
@@ -65,7 +68,10 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
@@ -100,7 +106,10 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
@@ -135,7 +144,10 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
@@ -170,7 +182,10 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
@@ -205,7 +220,10 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
@@ -240,7 +258,10 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
@@ -275,7 +296,10 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
@@ -310,7 +334,10 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false",
+          "true"
+        ]
       }
     ]
   },
