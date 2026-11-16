@@ -2,17 +2,74 @@
   "version": "v1.0",
   "ignore_class": "ignore_region",
   "classes": [
-    {"name": "car", "definition": "Ã” tÃ´ con, SUV."},
-    {"name": "truck", "definition": "Xe táº£i, xe cÃ³ thÃ¹ng hÃ ng riÃªng."},
-    {"name": "van", "definition": "Xe thÃ¹ng kÃ­n cá»¡ nhá»."},
-    {"name": "motorcycle", "definition": "Xe mÃ¡y, mÃ´ tÃ´."},
-    {"name": "person", "definition": "NgÆ°á»i Ä‘i bá»™ hoáº·c ngÆ°á»i ngá»“i trÃªn xe."},
-    {"name": "ignore_region", "definition": "VÃ¹ng bá» qua (khÃ´ng pháº£i váº­t): nÆ¡i khÃ´ng gÃ¡n tá»«ng váº­t, bá» sÃ³t á»Ÿ Ä‘Ã¢y khÃ´ng tÃ­nh lÃ  lá»—i."}
+    {
+      "name": "car",
+      "definition": "Ô tô con, taxi, SUV, xe điện kín 4 bánh."
+    },
+    {
+      "name": "truck",
+      "definition": "Xe tải, xe đầu kéo, xe có thùng hàng riêng, gồm pickup thùng hở hoặc có nắp."
+    },
+    {
+      "name": "van",
+      "definition": "Xe thùng kín cỡ nhỏ, cabin và khoang sau liền một thân: minivan, van giao hàng."
+    },
+    {
+      "name": "bus",
+      "definition": "Xe buýt, xe khách, minibus chở nhiều hành khách."
+    },
+    {
+      "name": "motorcycle",
+      "definition": "Xe hai bánh có động cơ: xe máy, scooter, mô tô, quad; xe có sidecar tính một box."
+    },
+    {
+      "name": "bicycle",
+      "definition": "Xe đạp hai bánh không động cơ, kể cả xe đạp chở hàng."
+    },
+    {
+      "name": "three_wheeler",
+      "definition": "Xe ba bánh chở khách hoặc hàng: tuk-tuk, xe lam, ba gác máy, xích lô đạp."
+    },
+    {
+      "name": "person",
+      "definition": "Người thật ở ngoài thân xe: đi bộ, đứng, ngồi, người cưỡi xe máy hoặc xe đạp, người đánh xe."
+    },
+    {
+      "name": "other_vehicle",
+      "definition": "Xe thật không thuộc các lớp trên: xe trâu bò kéo, xe đẩy, xe diễu hành tự chế."
+    },
+    {
+      "name": "ignore_region",
+      "definition": "Vùng bỏ qua (không phải vật): nơi không gán từng vật vì quá nhỏ hoặc quá dày, bỏ sót ở đây không tính là lỗi."
+    }
   ],
   "attributes": [
-    {"name": "occluded_level", "type": "select", "values": ["0", "1", "2", "3"], "default": "0"},
-    {"name": "truncated", "type": "select", "values": ["no", "yes"], "default": "no"},
-    {"name": "can_review", "type": "checkbox", "values": [], "default": "false"}
+    {
+      "name": "occluded_level",
+      "type": "select",
+      "values": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "default": "0"
+    },
+    {
+      "name": "truncated",
+      "type": "select",
+      "values": [
+        "no",
+        "yes"
+      ],
+      "default": "no"
+    },
+    {
+      "name": "can_review",
+      "type": "checkbox",
+      "values": [],
+      "default": "false"
+    }
   ],
   "rules": {
     "min_box_height_px": 20,
@@ -25,4 +82,3 @@
     "match_iou": 0.5
   }
 }
-
