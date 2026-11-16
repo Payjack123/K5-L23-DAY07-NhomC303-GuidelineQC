@@ -8,9 +8,9 @@
 
 ## Kết quả tóm tắt (điền cuối bài)
 
-- Lượt gán hoàn tất / được giao:
-- IAA trước calibration (kèm mẫu số):
-- Số ảnh phải calibration: … / 40
-- Vòng QC và số ảnh đã duyệt / cả lô:
-- Tỉ lệ lỗi: … % theo ảnh (…/…), … % theo đối tượng (…/…)
-- **Quyết định** (Release / Hold / Rework) và lý do một dòng:
+- Lượt gán hoàn tất / được giao: 80/80 (100%)
+- IAA trước calibration (kèm mẫu số): IoU TB 0.892, Đồng thuận lớp 100.0% (mẫu số: 124 cặp box ghép)
+- Số ảnh phải calibration: 38 / 40
+- Vòng QC và số ảnh đã duyệt / cả lô: Vòng 1, 40 / 40 ảnh (duyệt toàn bộ lô)
+- Tỉ lệ lỗi: 0.0% theo ảnh (0/40), 0.0% theo đối tượng (0/372)
+- **Quyết định** (Release / Hold / Rework) và lý do một dòng: Release — Lô dữ liệu đạt 100% độ bao phủ, 0% lỗi QC sau hiệu chỉnh và vượt ngưỡng IAA quy định.

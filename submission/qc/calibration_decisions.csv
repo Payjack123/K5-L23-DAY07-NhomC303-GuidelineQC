@@ -1,0 +1,595 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_001.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C002,img_001.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C003,img_001.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C004,img_001.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C005,img_001.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C006,img_001.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C007,img_002.jpg,Gan box car cho xe tren san xe cho xe,R-07,v1.1,102,Bo sung box car,102 dat,lo
+C008,img_002.jpg,Gan box car cho xe tren san xe cho xe,R-07,v1.1,102,Bo sung box car,102 dat,lo
+C009,img_002.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C010,img_002.jpg,Gan box car cho xe tren san xe cho xe,R-07,v1.1,102,Bo sung box car,102 dat,lo
+C011,img_002.jpg,Giu box truck hop le theo quy tac vat that,R-01,v1.1,102,Giu box truck,102 dat,anh
+C012,img_002.jpg,Gan box car cho xe tren san xe cho xe,R-07,v1.1,102,Bo sung box car,102 dat,lo
+C013,img_002.jpg,Gan box car cho xe tren san xe cho xe,R-07,v1.1,102,Bo sung box car,102 dat,lo
+C014,img_002.jpg,Gan box car cho xe tren san xe cho xe,R-07,v1.1,102,Bo sung box car,102 dat,lo
+C015,img_002.jpg,Gan box car cho xe tren san xe cho xe,R-07,v1.1,102,Bo sung box car,102 dat,lo
+C016,img_002.jpg,Gan box car cho xe tren san xe cho xe,R-07,v1.1,102,Bo sung box car,102 dat,lo
+C017,img_002.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C018,img_002.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C019,img_002.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C020,img_002.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C021,img_002.jpg,Xac nhan box truck hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C022,img_002.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C023,img_002.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C024,img_002.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C025,img_002.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C026,img_002.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C027,img_003.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C028,img_003.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C029,img_003.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C030,img_003.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C031,img_003.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C032,img_003.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C033,img_003.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C034,img_003.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C035,img_003.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C036,img_003.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C037,img_003.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C038,img_003.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C039,img_003.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C040,img_003.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C041,img_003.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C042,img_003.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C043,img_003.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C044,img_003.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C045,img_003.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C046,img_003.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C047,img_003.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C048,img_003.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C049,img_003.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C050,img_003.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C051,img_003.jpg,Xac nhan box bicycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C052,img_003.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C053,img_003.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C054,img_003.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C055,img_003.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C056,img_003.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C057,img_003.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C058,img_003.jpg,Chon vien box bicycle om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C059,img_003.jpg,Chon vien box person om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C060,img_003.jpg,Chon vien box motorcycle om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C061,img_003.jpg,Chon vien box motorcycle om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C062,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho car theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C063,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C064,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C065,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C066,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C067,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C068,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C069,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C070,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C071,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C072,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C073,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho bicycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C074,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C075,img_003.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C076,img_004.jpg,Giu box three_wheeler hop le theo quy tac vat that,R-01,v1.1,102,Giu box three_wheeler,102 dat,anh
+C077,img_004.jpg,Giu box three_wheeler hop le theo quy tac vat that,R-01,v1.1,102,Giu box three_wheeler,102 dat,anh
+C078,img_005.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C079,img_005.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C080,img_005.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C081,img_005.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C082,img_005.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C083,img_005.jpg,Chon vien box person om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C084,img_005.jpg,Thong nhat thuoc tinh occluded va truncated cho van theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C085,img_005.jpg,Thong nhat thuoc tinh occluded va truncated cho car theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C086,img_005.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C087,img_005.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C088,img_005.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C089,img_006.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C090,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C091,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C092,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C093,img_006.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C094,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C095,img_006.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C096,img_006.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C097,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C098,img_006.jpg,Giu box bicycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box bicycle,102 dat,anh
+C099,img_006.jpg,Giu box bicycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box bicycle,102 dat,anh
+C100,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C101,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C102,img_006.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C103,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C104,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C105,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C106,img_006.jpg,Giu box bicycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box bicycle,102 dat,anh
+C107,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C108,img_006.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C109,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C110,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C111,img_006.jpg,Giu box bicycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box bicycle,102 dat,anh
+C112,img_006.jpg,Giu box bicycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box bicycle,102 dat,anh
+C113,img_006.jpg,Giu box bicycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box bicycle,102 dat,anh
+C114,img_006.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C115,img_006.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C116,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C117,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C118,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C119,img_006.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C120,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C121,img_006.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C122,img_006.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C123,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C124,img_006.jpg,Xac nhan box bicycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C125,img_006.jpg,Xac nhan box bicycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C126,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C127,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C128,img_006.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C129,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C130,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C131,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C132,img_006.jpg,Xac nhan box bicycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C133,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C134,img_006.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C135,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C136,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C137,img_006.jpg,Xac nhan box bicycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C138,img_006.jpg,Xac nhan box bicycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C139,img_006.jpg,Xac nhan box bicycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C140,img_006.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C141,img_007.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C142,img_007.jpg,Giu box truck hop le theo quy tac vat that,R-01,v1.1,102,Giu box truck,102 dat,anh
+C143,img_007.jpg,Xac nhan box truck hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C144,img_007.jpg,Thong nhat thuoc tinh occluded va truncated cho truck theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C145,img_008.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C146,img_008.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C147,img_008.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C148,img_008.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C149,img_008.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C150,img_008.jpg,Giu box truck hop le theo quy tac vat that,R-01,v1.1,102,Giu box truck,102 dat,anh
+C151,img_008.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C152,img_008.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C153,img_008.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C154,img_008.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C155,img_008.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C156,img_008.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C157,img_008.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C158,img_008.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C159,img_008.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C160,img_008.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C161,img_008.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C162,img_008.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C163,img_008.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C164,img_008.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C165,img_008.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C166,img_008.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C167,img_008.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C168,img_008.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C169,img_008.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C170,img_008.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C171,img_008.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C172,img_008.jpg,Xac nhan box truck hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C173,img_008.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C174,img_008.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C175,img_008.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C176,img_008.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C177,img_008.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C178,img_008.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C179,img_008.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C180,img_008.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C181,img_008.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C182,img_008.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C183,img_008.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C184,img_008.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C185,img_008.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C186,img_008.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C187,img_008.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C188,img_008.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C189,img_008.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C190,img_009.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C191,img_009.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C192,img_009.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C193,img_009.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C194,img_009.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C195,img_009.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C196,img_009.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C197,img_009.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C198,img_009.jpg,Giu box bus hop le theo quy tac vat that,R-01,v1.1,102,Giu box bus,102 dat,anh
+C199,img_009.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C200,img_009.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C201,img_009.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C202,img_010.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C203,img_010.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C204,img_010.jpg,Giu box other_vehicle hop le theo quy tac vat that,R-01,v1.1,102,Giu box other_vehicle,102 dat,anh
+C205,img_010.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C206,img_010.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C207,img_010.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C208,img_010.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C209,img_010.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C210,img_010.jpg,Xac nhan box other_vehicle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C211,img_010.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C212,img_010.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C213,img_010.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C214,img_010.jpg,Chon vien box motorcycle om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C215,img_010.jpg,Chon vien box motorcycle om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C216,img_010.jpg,Chon vien box person om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C217,img_010.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C218,img_010.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C219,img_010.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C220,img_010.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C221,img_011.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C222,img_011.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C223,img_011.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C224,img_011.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C225,img_011.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C226,img_011.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C227,img_011.jpg,Xac nhan box van hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C228,img_011.jpg,Thong nhat thuoc tinh occluded va truncated cho van theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C229,img_012.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C230,img_012.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C231,img_012.jpg,Giu box truck hop le theo quy tac vat that,R-01,v1.1,102,Giu box truck,102 dat,anh
+C232,img_012.jpg,Giu box truck hop le theo quy tac vat that,R-01,v1.1,102,Giu box truck,102 dat,anh
+C233,img_012.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C234,img_012.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C235,img_012.jpg,Xac nhan box truck hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C236,img_012.jpg,Xac nhan box truck hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C237,img_013.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C238,img_013.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C239,img_013.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C240,img_013.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C241,img_013.jpg,Giu box bus hop le theo quy tac vat that,R-01,v1.1,102,Giu box bus,102 dat,anh
+C242,img_013.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C243,img_013.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C244,img_013.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C245,img_013.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C246,img_013.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C247,img_013.jpg,Chon vien box car om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C248,img_013.jpg,Chon vien box motorcycle om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C249,img_013.jpg,Thong nhat thuoc tinh occluded va truncated cho car theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C250,img_013.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C251,img_014.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C252,img_014.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C253,img_014.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C254,img_014.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C255,img_014.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C256,img_015.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C257,img_015.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C258,img_015.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C259,img_015.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C260,img_015.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C261,img_015.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C262,img_016.jpg,Giu box truck hop le theo quy tac vat that,R-01,v1.1,102,Giu box truck,102 dat,anh
+C263,img_016.jpg,Giu box truck hop le theo quy tac vat that,R-01,v1.1,102,Giu box truck,102 dat,anh
+C264,img_016.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C265,img_016.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C266,img_016.jpg,Xac nhan box three_wheeler hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C267,img_016.jpg,Xac nhan box three_wheeler hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C268,img_016.jpg,Xac nhan box van hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C269,img_016.jpg,Xac nhan box truck hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C270,img_016.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C271,img_016.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C272,img_016.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C273,img_016.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C274,img_016.jpg,Chon vien box car om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C275,img_016.jpg,Chon vien box person om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C276,img_016.jpg,Thong nhat thuoc tinh occluded va truncated cho three_wheeler theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C277,img_016.jpg,Thong nhat thuoc tinh occluded va truncated cho car theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C278,img_017.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C279,img_018.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C280,img_018.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C281,img_018.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C282,img_018.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C283,img_018.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C284,img_019.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C285,img_019.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C286,img_019.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C287,img_019.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C288,img_019.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C289,img_019.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C290,img_019.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C291,img_019.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C292,img_019.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C293,img_019.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C294,img_019.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C295,img_019.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C296,img_019.jpg,Xac nhan box other_vehicle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C297,img_019.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C298,img_019.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C299,img_019.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C300,img_019.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C301,img_019.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C302,img_019.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C303,img_019.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C304,img_019.jpg,Xac nhan box other_vehicle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C305,img_019.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C306,img_019.jpg,Chon vien box person om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C307,img_019.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C308,img_020.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C309,img_021.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C310,img_021.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C311,img_021.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C312,img_021.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C313,img_021.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C314,img_021.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C315,img_021.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C316,img_021.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C317,img_021.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C318,img_021.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C319,img_021.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C320,img_021.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C321,img_021.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C322,img_021.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C323,img_021.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C324,img_021.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C325,img_021.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C326,img_021.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C327,img_021.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C328,img_021.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C329,img_021.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C330,img_022.jpg,Giu box three_wheeler hop le theo quy tac vat that,R-01,v1.1,102,Giu box three_wheeler,102 dat,anh
+C331,img_022.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C332,img_022.jpg,Chon vien box motorcycle om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C333,img_023.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C334,img_023.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C335,img_023.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C336,img_023.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C337,img_023.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C338,img_023.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C339,img_023.jpg,Xac nhan box three_wheeler hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C340,img_023.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C341,img_023.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C342,img_023.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C343,img_023.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C344,img_023.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C345,img_023.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C346,img_023.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C347,img_023.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C348,img_023.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C349,img_023.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C350,img_023.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C351,img_023.jpg,Chon vien box motorcycle om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C352,img_023.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C353,img_023.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C354,img_023.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C355,img_023.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C356,img_023.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C357,img_023.jpg,Thong nhat thuoc tinh occluded va truncated cho car theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C358,img_023.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C359,img_024.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C360,img_024.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C361,img_024.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C362,img_024.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C363,img_024.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C364,img_024.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C365,img_025.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C366,img_025.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C367,img_025.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C368,img_025.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C369,img_025.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C370,img_025.jpg,Giu box three_wheeler hop le theo quy tac vat that,R-01,v1.1,102,Giu box three_wheeler,102 dat,anh
+C371,img_025.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C372,img_025.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C373,img_025.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C374,img_025.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C375,img_025.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C376,img_025.jpg,Xac nhan box three_wheeler hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C377,img_025.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C378,img_026.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C379,img_026.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C380,img_026.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C381,img_026.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C382,img_026.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C383,img_028.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C384,img_028.jpg,Giu box truck hop le theo quy tac vat that,R-01,v1.1,102,Giu box truck,102 dat,anh
+C385,img_029.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C386,img_029.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C387,img_029.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C388,img_029.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C389,img_029.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C390,img_029.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C391,img_029.jpg,Xac nhan box bicycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C392,img_029.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C393,img_029.jpg,Xac nhan box bicycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C394,img_029.jpg,Xac nhan box bicycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C395,img_029.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C396,img_029.jpg,Chon vien box motorcycle om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C397,img_029.jpg,Thong nhat thuoc tinh occluded va truncated cho bicycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C398,img_029.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C399,img_029.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C400,img_029.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C401,img_029.jpg,Thong nhat thuoc tinh occluded va truncated cho bicycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C402,img_029.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C403,img_029.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C404,img_029.jpg,Thong nhat thuoc tinh occluded va truncated cho bicycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C405,img_030.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C406,img_030.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C407,img_030.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C408,img_030.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C409,img_030.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C410,img_030.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C411,img_030.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C412,img_030.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C413,img_030.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C414,img_030.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C415,img_030.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C416,img_031.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C417,img_031.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C418,img_031.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C419,img_031.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C420,img_031.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C421,img_031.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C422,img_031.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C423,img_031.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C424,img_031.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C425,img_031.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C426,img_031.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C427,img_031.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C428,img_031.jpg,Giu box bus hop le theo quy tac vat that,R-01,v1.1,102,Giu box bus,102 dat,anh
+C429,img_031.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C430,img_031.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C431,img_032.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C432,img_032.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C433,img_032.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C434,img_032.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C435,img_032.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C436,img_032.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C437,img_032.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C438,img_032.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C439,img_032.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C440,img_032.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C441,img_032.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C442,img_032.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C443,img_032.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C444,img_032.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C445,img_032.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C446,img_032.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C447,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C448,img_032.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C449,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C450,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C451,img_032.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C452,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C453,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C454,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C455,img_032.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C456,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C457,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C458,img_032.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C459,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C460,img_032.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C461,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C462,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C463,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C464,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C465,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C466,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C467,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C468,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C469,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C470,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C471,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C472,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C473,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C474,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C475,img_032.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C476,img_032.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C477,img_032.jpg,Chon vien box person om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C478,img_032.jpg,Thong nhat thuoc tinh occluded va truncated cho car theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C479,img_032.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C480,img_032.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C481,img_033.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C482,img_034.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C483,img_034.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C484,img_034.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C485,img_034.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C486,img_034.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C487,img_034.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C488,img_034.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C489,img_034.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C490,img_034.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C491,img_034.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C492,img_034.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C493,img_034.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C494,img_034.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C495,img_034.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C496,img_034.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C497,img_034.jpg,Xac nhan box bicycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C498,img_034.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C499,img_034.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C500,img_034.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C501,img_034.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C502,img_034.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C503,img_034.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C504,img_034.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C505,img_034.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C506,img_034.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C507,img_034.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C508,img_034.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C509,img_034.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C510,img_034.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C511,img_034.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C512,img_034.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C513,img_034.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C514,img_034.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C515,img_034.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C516,img_034.jpg,Chon vien box person om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C517,img_034.jpg,Chon vien box person om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C518,img_034.jpg,Chon vien box motorcycle om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C519,img_034.jpg,Chon vien box person om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C520,img_034.jpg,Chon vien box bicycle om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C521,img_034.jpg,Thong nhat thuoc tinh occluded va truncated cho car theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C522,img_034.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C523,img_034.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C524,img_034.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C525,img_034.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C526,img_034.jpg,Thong nhat thuoc tinh occluded va truncated cho bicycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C527,img_035.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C528,img_035.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C529,img_035.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C530,img_035.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C531,img_035.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C532,img_035.jpg,Giu box other_vehicle hop le theo quy tac vat that,R-01,v1.1,102,Giu box other_vehicle,102 dat,anh
+C533,img_035.jpg,Giu box other_vehicle hop le theo quy tac vat that,R-01,v1.1,102,Giu box other_vehicle,102 dat,anh
+C534,img_035.jpg,Giu box three_wheeler hop le theo quy tac vat that,R-01,v1.1,102,Giu box three_wheeler,102 dat,anh
+C535,img_035.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C536,img_035.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C537,img_035.jpg,Chon vien box person om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C538,img_035.jpg,Thong nhat thuoc tinh occluded va truncated cho car theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C539,img_035.jpg,Thong nhat thuoc tinh occluded va truncated cho person theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C540,img_035.jpg,Thong nhat thuoc tinh occluded va truncated cho motorcycle theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C541,img_036.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C542,img_036.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C543,img_036.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C544,img_036.jpg,Giu box truck hop le theo quy tac vat that,R-01,v1.1,102,Giu box truck,102 dat,anh
+C545,img_036.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C546,img_036.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C547,img_036.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C548,img_036.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C549,img_036.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C550,img_036.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C551,img_036.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C552,img_036.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C553,img_036.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C554,img_036.jpg,Xac nhan box truck hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C555,img_036.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C556,img_036.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C557,img_036.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C558,img_036.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C559,img_036.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C560,img_036.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C561,img_036.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C562,img_037.jpg,Giu box bus hop le theo quy tac vat that,R-01,v1.1,102,Giu box bus,102 dat,anh
+C563,img_037.jpg,Giu box other_vehicle hop le theo quy tac vat that,R-01,v1.1,102,Giu box other_vehicle,102 dat,anh
+C564,img_037.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C565,img_037.jpg,Giu box truck hop le theo quy tac vat that,R-01,v1.1,102,Giu box truck,102 dat,anh
+C566,img_039.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C567,img_039.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C568,img_039.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C569,img_039.jpg,Giu box car hop le theo quy tac vat that,R-01,v1.1,102,Giu box car,102 dat,anh
+C570,img_039.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C571,img_039.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C572,img_039.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C573,img_039.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C574,img_039.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C575,img_039.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C576,img_039.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C577,img_039.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C578,img_039.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C579,img_039.jpg,Giu box person hop le theo quy tac vat that,R-01,v1.1,102,Giu box person,102 dat,anh
+C580,img_039.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C581,img_040.jpg,Gom dam dong va cum vat nho vao ignore_region,R-12,v1.1,102,Chuan hoa ignore_region,102 dat,lo
+C582,img_040.jpg,Giu box motorcycle hop le theo quy tac vat that,R-01,v1.1,102,Giu box motorcycle,102 dat,anh
+C583,img_040.jpg,Giu box three_wheeler hop le theo quy tac vat that,R-01,v1.1,102,Giu box three_wheeler,102 dat,anh
+C584,img_040.jpg,Giu box three_wheeler hop le theo quy tac vat that,R-01,v1.1,102,Giu box three_wheeler,102 dat,anh
+C585,img_040.jpg,Xac nhan box motorcycle hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C586,img_040.jpg,Xac nhan box three_wheeler hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C587,img_040.jpg,Xac nhan box person hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C588,img_040.jpg,Xac nhan box bus hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C589,img_040.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C590,img_040.jpg,Xac nhan box three_wheeler hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C591,img_040.jpg,Xac nhan box car hop le va tat co can_review,R-15,v1.1,102,Tat co can_review,102 dat,anh
+C592,img_040.jpg,Chon vien box bus om sat phan nhin thay,R-03,v1.1,102,Chinh vien box om sat vat,102 dat,anh
+C593,img_040.jpg,Thong nhat thuoc tinh occluded va truncated cho car theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
+C594,img_040.jpg,Thong nhat thuoc tinh occluded va truncated cho bus theo thuc te,R-10,v1.1,102,Chuan hoa thuoc tinh,102 dat,anh
