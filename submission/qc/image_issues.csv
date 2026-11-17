@@ -1,0 +1,2 @@
+image,annotator,region,note
+img_034.jpg,103,"x1=145,y1=228,x2=315,y2=288 (nhóm xe đạp, xe máy và người ở xa, trước hàng rào)","Các xe và người chồng lấn, cao khoảng 50-60 px nhưng khó tách ranh giới từng vật; gom vào một ignore_region; áp dụng R-12 để xác định tách từng box (bicycle/motorcycle/person) hay giữ ignore_region"

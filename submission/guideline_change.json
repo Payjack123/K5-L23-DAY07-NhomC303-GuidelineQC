@@ -1,4 +1,4 @@
 {
   "kind": "semantic",
-  "summary": "Lam ro quy tac hang dinh lien xe (R-06), quy tac xe cho xe (R-07), chuan hoa nguong vat nho duoi 20px thanh ignore_region (R-11) va tat toan bo co can_review sau calibration."
+  "summary": "Lam ro R-09 (truncated theo hinh hoc) va R-10 (lech occluded_level lay muc cao hon); xac nhan R-02 pickup la truck; ap dung R-11, R-12 khi gop nhan sau calibration."
 }

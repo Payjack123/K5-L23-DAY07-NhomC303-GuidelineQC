@@ -1,8 +1,8 @@
 # Guideline gán nhãn — v1.1 (nhóm NhomC303, sau Calibration)
 
-- Phiên bản: v1.0, tổng hợp từ guideline cá nhân 101, 102, 103, 104 và `guideline_v0_starter.md`
+- Phiên bản: v1.1, hiệu chỉnh từ v1.0 sau Calibration (Pha 5); v1.0 tổng hợp từ guideline cá nhân 101, 102, 103, 104 và `guideline_v0_starter.md`
 - Phạm vi: `img_001.jpg` đến `img_040.jpg` · Loại nhãn: bounding box 2D · Công cụ: CVAT Rectangle, xuất COCO 1.0
-- Trạng thái: bản hiệu chỉnh chốt cuối cùng của nhóm dùng để gộp nhãn và bàn giao QC
+- Trạng thái: bản sau Calibration dùng để gộp nhãn cuối và bàn giao QC
 
 ---
 
@@ -52,8 +52,8 @@ Không phân biệt được hai lớp từ bằng chứng trong ảnh: không �
 - **R-06 · Hàng dính liền xe.** Hàng chất cao hoặc nhô ra mà dính liền với xe thì **một box bao cả xe và hàng**, vì xe tự lái phải tránh cả phần hàng. Lớp là lớp của xe (img_001, 012, 029, 035). Hàng rời không gắn với xe và vật người đang xách thì ngoài box.
 - **R-07 · Xe chở xe (img_002).** Một box `truck` bao cả xe đầu kéo, giàn và xe chở; thêm một box `car` riêng cho mỗi ô tô thấy rõ và cao từ 20 px.
 - **R-08 · Xe ba bánh và xe súc vật kéo.** Xe ba bánh: một box bao cả thân và mui. Xe trâu bò kéo: `other_vehicle`, một box bao cả xe và con vật kéo; người đánh xe ngồi ngoài gán `person`.
-- **R-09 · Cắt mép ảnh.** Box dừng ở mép ảnh, `truncated` = yes theo ngưỡng mục 2 (img_005, 008, 012, 015, 016, 032, 034, 040).
-- **R-10 · Che khuất.** Đặt `occluded_level` theo ngưỡng mục 2. Xe nhìn thấy một phần rõ thì một box. Chỉ lộ vài điểm, không xác định được lớp thì không vẽ box mà gom vào `ignore_region`.
+- **R-09 · Cắt mép ảnh.** Box dừng ở mép ảnh, `truncated` = yes theo ngưỡng mục 2 (img_005, 008, 012, 015, 016, 032, 034, 040). **v1.1:** khi hai người lệch `truncated`, chọn theo hình học: box chạm mép ảnh thì `yes`, ngược lại `no`.
+- **R-10 · Che khuất.** Đặt `occluded_level` theo ngưỡng mục 2. Xe nhìn thấy một phần rõ thì một box. Chỉ lộ vài điểm, không xác định được lớp thì không vẽ box mà gom vào `ignore_region`. **v1.1:** khi hai người lệch `occluded_level`, chọn mức cao hơn trong hai mức.
 - **R-11 · Vật nhỏ.** Chiều cao box phần nhìn thấy < 20 px: không gán box đối tượng, dùng `ignore_region` sát vùng có vật (kể cả khi chỉ có một vật; img_013, 025, 039).
 - **R-12 · Đám đông và xe dày đặc.** Gán riêng từng người hoặc xe còn tách được (đủ 20 px), gom phần không tách được vào `ignore_region`. Vùng ignore sát cụm, không phủ các box đã gán; không dùng ignore để né quyết định về vật nhìn thấy rõ (img_008, 021, 030, 032).
 - **R-13 · Vật không thật: không gán.** Tượng và xe điêu khắc (img_011, 017), bia mộ hình xe (img_027), ma-nơ-canh (img_033), xe mô hình và đồ chơi (img_038), hình người/xe in trên biển quảng cáo hoặc tranh tường (img_018, 026), phản chiếu trong gương hoặc kính và xe của chính mình, ego (img_020). Xe thật cỡ thật trong showroom hoặc bảo tàng vẫn gán.
@@ -69,8 +69,8 @@ Bảng liệt kê chỗ các bản cá nhân quyết khác nhau và quyết đ�
 | img_004, 016, 023, 035, 040 | Tuk-tuk, xích lô | 101: `three_wheeler` (xích lô → `bicycle`); 102: `tuk_tuk`, xích lô không gán; 103: `three_wheeler` gồm xích lô; 104: không gán | Lớp `three_wheeler` gồm cả xích lô đạp (R-08) | Cùng cấu tạo 3 bánh chở khách/hàng; không gán thì mô hình bỏ sót vật cản thật |
 | img_009, 031, 037, 040 | Xe buýt, minibus | 101, 102, 103: thêm `bus`; 104: không gán | Thêm lớp `bus` | Xuất hiện ở ≥ 4 ảnh, kích thước và hành vi khác `car`/`truck` |
 | img_003, 006, 010, 029, 039 | Xe đạp | 101, 103: thêm `bicycle`; 102, 104: không gán | Thêm lớp `bicycle` | Xuất hiện ở ≥ 5 ảnh; bỏ thì người đạp xe mất phương tiện đi kèm |
-| img_010, 019 | Xe đẩy, xe diễu hành tự chế | 103: `other_vehicle`; 101, 104: chưa chốt hoặc `car` + `can_review` | Thêm lớp `other_vehicle`; img_019 gán `other_vehicle`, tài xế `person`, tick `can_review` | Cần một lớp cho xe thật không thuộc lớp nào thay vì bỏ qua hoặc ép vào `car` |
-| img_001, 012, 028, 036, 037 | Pickup thùng hở hoặc có nắp | 101: `car`; 102: `car`, img_037 tạm `van`; 103, 104: `truck` | `truck` (R-02) | Khớp định nghĩa `truck` của v0 "có thùng hàng riêng"; cabin và thùng nhìn thấy tách biệt |
+| img_010, 019 | Xe đẩy, xe diễu hành tự chế | 103: `other_vehicle`; 101, 104: `car` + `can_review` hoặc không nêu lớp riêng | Thêm lớp `other_vehicle`; img_019 gán `other_vehicle`, tài xế `person`, tick `can_review` | Cần một lớp cho xe thật không thuộc lớp nào thay vì bỏ qua hoặc ép vào `car` |
+| img_001, 012, 028, 036, 037 | Pickup thùng hở hoặc có nắp | 101: `car`; 102: `car`, img_037 `van`; 103, 104: `truck` | `truck` (R-02) | Khớp định nghĩa `truck` của v0 "có thùng hàng riêng"; cabin và thùng nhìn thấy tách biệt |
 | img_002 | Đầu kéo chở 7 ô tô | 101, 102, 104: `truck` + `car` từng xe; 103: một box `truck` bao cả | Một `truck` bao cả xe chở **và** một `car` riêng cho mỗi xe thấy rõ (R-07) | Kết hợp: hàng dính liền xe thì box ôm cả (R-06), mỗi ô tô thật vẫn là vật cần phát hiện |
 | img_029, 035 | Hàng nhô ra hoặc chất cao trên xe | 101, 102, 104: box không bao hàng; 103: một box bao cả hàng | Hàng dính liền xe thì một box bao cả (R-06) | Xe tự lái phải tránh cả khối hàng; hàng rời không gắn xe thì ngoài box |
 | img_028 | Pickup thật chở tượng ngựa | 104: `truck` theo xe; 103: bao cả tượng | Một box `truck` bao cả tượng, không gán riêng con ngựa | Tượng là hàng dính liền xe, không phải vật cần phát hiện riêng |
@@ -92,15 +92,16 @@ Bảng liệt kê chỗ các bản cá nhân quyết khác nhau và quyết đ�
 |---|---|---|
 | v0 | Bản khởi đầu của giảng viên | — |
 | v1.0 | Thêm `bus`, `bicycle`, `three_wheeler`, `other_vehicle`; định nghĩa lại `truck` (gồm pickup); định lượng `occluded_level` và `truncated`; quy tắc R-01 đến R-15 | img_002 (xe chở xe), 004, 023, 035 (xe ba bánh và hàng), 009, 031 (bus), 010, 019 (xe đặc biệt), 017, 027, 033, 038 (vật không thật), 021, 030 (đám đông) |
+| v1.1 | Làm rõ R-09, R-10; xác nhận R-02 cho pickup (`truck`); áp dụng R-11, R-12 khi gộp nhãn | img_012, 028 (pickup bị gán `car`), toàn lô (lệch `occluded_level`, `truncated`), img_034, 021, 011 (ignore) |
 
+## 6. Quyết định hiệu chỉnh sau Calibration (v1.1)
 
----
+Căn cứ: IAA 4 người trên 40 ảnh, 385 ca bất thường trên 36 ảnh (xem `submission/qc/iaa_summary.md`, `calibration_decisions.csv`). Mỗi ca có một dòng quyết định kèm mã quy tắc.
 
-## 4. Quyết định hiệu chỉnh sau họp Calibration (Cập nhật v1.1)
-
-Sau khi phân tích 594 ca bất thường từ kết quả đo độ đồng thuận (IAA) trên 40 ảnh, nhóm đã họp thống nhất các nguyên tắc hiệu chỉnh như sau:
-1. **Xe chở xe (R-07):** Trên img_002.jpg, bắt buộc có 1 box 	ruck bao toàn bộ xe chuyên dụng cùng giàn sàn, đồng thời gán thêm box car riêng cho từng ô tô con thấy rõ trên các tầng.
-2. **Hàng dính liền xe (R-06):** Chỉ bao phần hàng dính chặt vào xe thành một khối cản trở giao thông; hàng cồng kềnh rời rạc không bao thừa nền.
-3. **Vật nhỏ và Đám đông (R-11, R-12):** Các phương tiện hoặc người ở xa có chiều cao dưới 20 px hoặc bị nhòe mờ không thể nhận diện chắc chắn thì gom vào ignore_region, tránh để người gán đoán mò làm lệch nhãn.
-4. **Vật không thật (R-13):** Tuyệt đối không gán tượng người/xe, ma-nơ-canh, hình in quảng cáo và xe của chính mình (ego-vehicle).
-5. **Đóng cờ xem xét (R-15):** Toàn bộ các box từng cắm cờ can_review=true ở Pha 3 đã được rà soát và chuyển thành can_review=false trên bản nhãn cuối.
+1. **Pickup là `truck` (R-02).** Hai ca `sai_lop` (img_012, 028): 101 gán `car`, cùng một vật gán `truck` ở người kia. Chốt `truck`, vì v1.0 đã quy định pickup thuộc lớp này. Đây là lỗi chưa nắm quy tắc của một người, không phải guideline mơ hồ.
+2. **Lệch `occluded_level` (R-10).** Hai người lệch mức thì chọn mức cao hơn. Lệch này là nhóm ca nhiều nhất (131 ca) vì ngưỡng 5/30/70% vẫn phải ước lượng bằng mắt.
+3. **Lệch `truncated` (R-09).** Chọn theo hình học: box chạm mép ảnh thì `yes`.
+4. **Box chỉ một người vẽ (R-01, R-11).** Giữ nếu cao từ 20 px và nhìn thấy rõ; bỏ nếu thấp hơn 20 px. Box trùng một box đã gộp (cùng lớp, IoU từ 0,5) chỉ giữ một.
+5. **Vùng `ignore_region` (R-12).** Giữ vùng khi vật bên trong thấp dưới 20 px hoặc không tách được; bỏ vùng khi người kia đã vẽ riêng được các vật cao từ 20 px bên trong. Ca cấp ảnh img_034 chốt tách từng box.
+6. **`can_review` (R-15).** Đã rà các box đang cắm cờ và đóng cờ trên bản nhãn cuối khi hai người cùng vẽ hoặc box đạt R-01.
+7. **Lỗi cả hai người cùng mắc, phát hiện ở QC vòng 2.** IAA không bắt được các lỗi này vì hai người đồng ý với nhau nhưng cùng sai quy tắc. Đã sửa sau khi xem ảnh: tuk-tuk chở hàng là `three_wheeler` và chỉ một box bao cả hàng (R-06, R-08, img_035); pickup có nắp thùng là `truck` (R-02, img_037); người dưới mui tuk-tuk không gán (R-05, img_004); xe sidecar một box `motorcycle` (img_022); không đặt `ignore_region` lên tượng, phản chiếu, ma-nơ-canh (R-13, img_017, 020, 033); xe vàng trên nóc xe đen không gán (R-13, img_024); không để hai box cho cùng một pickup (R-03, img_016).

@@ -1,0 +1,44 @@
+image,object_id,error_type,reviewer,rule_id,region,note
+img_001.jpg,,khong,102,,,"8 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_002.jpg,,khong,102,,,"10 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_003.jpg,,khong,102,,,"24 annotation; box ôm sát, đúng lớp và thuộc tính; ảnh dày xe và người"
+img_004.jpg,45,thua,102,R-05,,"Người ngồi dưới mui tuk-tuk, R-05 không gán; 103 không vẽ, 101 vẽ"
+img_004.jpg,46,thua,102,R-05,,"Người lái ngồi dưới mui tuk-tuk, R-05 không gán"
+img_005.jpg,,khong,102,,,"12 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_006.jpg,,khong,102,,,"27 annotation; box ôm sát, đúng lớp và thuộc tính; ảnh dày xe và người"
+img_007.jpg,,khong,102,,,"3 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_008.jpg,,khong,102,,,"24 annotation; box ôm sát, đúng lớp và thuộc tính; ảnh dày xe và người"
+img_009.jpg,,khong,102,,,"11 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_010.jpg,,khong,102,,,"9 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_011.jpg,,khong,102,,,"8 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_012.jpg,,khong,102,,,"4 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_013.jpg,,khong,102,,,"8 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_014.jpg,,khong,102,,,"5 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_015.jpg,,khong,102,,,"6 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_016.jpg,172,thua,102,R-03,,"Hai box truck cho cùng một pickup (172 và 173); 172 rộng quá, che cả tuk-tuk; giữ 173 ôm phần nhìn thấy"
+img_017.jpg,174,thua,102,R-13,,ignore_region trên tượng cưỡi ngựa; R-13 vật không thật thì không gán gì
+img_018.jpg,,khong,102,,,"5 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_019.jpg,,khong,102,,,"12 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_020.jpg,192,thua,102,R-13,,ignore_region phủ cả gương chiếu hậu; phản chiếu và ego theo R-13 không gán
+img_021.jpg,,khong,102,,,"32 annotation; box ôm sát, đúng lớp và thuộc tính; ảnh dày xe và người"
+img_022.jpg,226,thua,102,R-02,,Sidecar bị gán three_wheeler riêng; v1.0 quy định xe sidecar là một box motorcycle
+img_022.jpg,225,sai_vi_tri_kich_thuoc,102,R-03,,Box motorcycle chưa bao sidecar
+img_023.jpg,,khong,102,,,"17 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_024.jpg,249,thua,102,R-13,,Xe vàng đặt trên nóc xe đen đã chốt không gán (không xác định thật hay mô hình)
+img_025.jpg,,khong,102,,,"15 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_026.jpg,,khong,102,,,"3 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_027.jpg,,khong,102,,,Không có annotation; ảnh toàn vật không thật hoặc ngoài phạm vi (R-13)
+img_028.jpg,,khong,102,,,"2 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_029.jpg,,khong,102,,,"11 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_030.jpg,,khong,102,,,"12 annotation; box ôm sát, đúng lớp và thuộc tính; ảnh dày xe và người"
+img_031.jpg,,khong,102,,,"15 annotation; box ôm sát, đúng lớp và thuộc tính; ảnh dày xe và người"
+img_032.jpg,,khong,102,,,"31 annotation; box ôm sát, đúng lớp và thuộc tính; ảnh dày xe và người"
+img_033.jpg,341,thua,102,R-13,,ignore_region phủ toàn ảnh; ma-nơ-canh và phản chiếu theo R-13 không gán
+img_034.jpg,,khong,102,,,"23 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_035.jpg,374,thua,102,R-06,,"Hai box cho cùng một xe ba bánh chở hàng; giữ box bao cả hàng (375), bỏ 374"
+img_035.jpg,375,sai_lop,102,R-08,,Xe ba bánh (tuk-tuk) chở hàng bị gán other_vehicle; đúng là three_wheeler theo R-08
+img_036.jpg,,khong,102,,,"12 annotation; box ôm sát, đúng lớp và thuộc tính"
+img_037.jpg,392,sai_lop,102,R-02,,Pickup có nắp thùng bị gán other_vehicle; R-02 pickup có nắp là truck
+img_038.jpg,,khong,102,,,Không có annotation; ảnh toàn vật không thật hoặc ngoài phạm vi (R-13)
+img_039.jpg,,khong,102,,,"15 annotation; box ôm sát, đúng lớp và thuộc tính; ảnh dày xe và người"
+img_040.jpg,,khong,102,,,"9 annotation; box ôm sát, đúng lớp và thuộc tính"
