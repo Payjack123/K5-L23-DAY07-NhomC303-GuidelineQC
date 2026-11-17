@@ -17,4 +17,4 @@
 
 Ngưỡng IAA: IoU TB >= 0.85, đồng thuận lớp >= 95%.
 
-Số ca bất thường: 594 ({'co_can_review': 231, 'sai_thuoc_tinh': 65, 'bo_sot_thua': 228, 'iou_thap': 24, 'bat_dong_ignore': 46}), trên 38 ảnh cần calibration.
+Số ca bất thường: 382 ({'co_can_review': 19, 'sai_thuoc_tinh': 65, 'bo_sot_thua': 228, 'iou_thap': 24, 'bat_dong_ignore': 46}), trên 38 ảnh cần calibration.

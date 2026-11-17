@@ -16,7 +16,7 @@
 
 ## 3. Calibration và kiểm lại
 
-- Ca đã xử lý, rule ID, bản sửa và người xác nhận: Đã xử lý toàn bộ 594 ca bất thường trong calibration_decisions.csv; áp dụng các rule R-01, R-03, R-06, R-07, R-10, R-11, R-12, R-15; người chốt và xác nhận: 102.
+- Ca đã xử lý, rule ID, bản sửa và người xác nhận: Đã xử lý toàn bộ 382 ca bất thường trong calibration_decisions.csv; áp dụng các rule R-01, R-03, R-06, R-07, R-10, R-11, R-12, R-15; người chốt và xác nhận: 102.
 - Tác động v1.1 lên nhãn và ảnh: Làm rõ quy tắc hàng dính liền xe R-06, bổ sung đầy đủ xe con trên giàn xe chở xe R-07, chuẩn hóa vùng ignore_region cho cụm vật dưới 20px R-11, và tắt toàn bộ cờ can_review trên cả 40 ảnh.
 - Tham chiếu bằng chứng khi Rework: Không phát sinh Rework; toàn bộ các ca đã được hiệu chỉnh dứt điểm ở Vòng 1.
 

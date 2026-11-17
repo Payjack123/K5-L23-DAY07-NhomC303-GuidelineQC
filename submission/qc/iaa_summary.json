@@ -18,7 +18,7 @@
     "submission\\labels\\101.json": "7d639ed0752621bcd26cfdcd913de24dcee61022a9343a3de6357f7d2342246e",
     "submission\\labels\\102.json": "099917d06729a0abcc91b56535bfe66fe7ddda6e44f52741fc8a26872659713b",
     "submission\\labels\\103.json": "806bbc3b73c9b60ece8be2d9e66c96324d08c86023b5980f7f524b5c0c69b97b",
-    "submission\\labels\\104.json": "6f50b42658c3c2a75854cae767afd8a1161dbd092b3d2574feed5936f1e087eb",
+    "submission\\labels\\104.json": "78a7be2a75289cfb3ca7dd4fb992600b6f4dbab8675e25828715ebf4e4241d1b",
     "data\\images\\img_001.jpg": "74b15d37b53d99d6cb8b3f7648d064ff89fedf0662df5ca1594c2c9c8454ba88",
     "data\\images\\img_002.jpg": "7cfa98eb24c504aa15496a82a714e28cc318447d77d0cb3881f91d649374d3de",
     "data\\images\\img_003.jpg": "8c2682682b89753bfa9de78b9dea93abb91937d2baed53fbf8c9fce6aa6a604a",
@@ -61,9 +61,9 @@
     "data\\images\\img_040.jpg": "e16ee9a3cfe6ea33457e7562b7f7d5bea9f63eee5cce42180ba25282dc004e95"
   },
   "artifacts": {
-    "consensus_draft.json": "af3f455b45eff559889aefcd0b0ce2c89daad2bfaaac8ad96a5bdba74a1c93fd",
+    "consensus_draft.json": "440ffc55707d5a78efbeb4ee313c9e96226b5e483fadbc5a855d816e01e5d337",
     "flagged_images.txt": "39eeca6c4060128fd7cf46c7a2925f7efe955ed47d743921a63a0a37d69b4743",
-    "calibration_candidates.csv": "9333214dcb6daa461baea2be2d29ca7e32509775826df0001f62f4afcae6be53"
+    "calibration_candidates.csv": "793b4311dfbbd5e03b1c07596f77fed957e39bfc1574e16f98ec7f8e2793bdc8"
   },
   "overall": {
     "n_images": 40,
@@ -186,9 +186,9 @@
       "pass": true
     }
   },
-  "n_issues": 594,
+  "n_issues": 382,
   "issues_by_type": {
-    "co_can_review": 231,
+    "co_can_review": 19,
     "sai_thuoc_tinh": 65,
     "bo_sot_thua": 228,
     "iou_thap": 24,
